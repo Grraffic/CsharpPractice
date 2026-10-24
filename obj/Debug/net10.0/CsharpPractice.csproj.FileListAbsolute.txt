@@ -1,0 +1,14 @@
+/Users/ericakaye/Documents/CsharpPractice/obj/Debug/net10.0/CsharpPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ericakaye/Documents/CsharpPractice/obj/Debug/net10.0/CsharpPractice.AssemblyInfoInputs.cache
+/Users/ericakaye/Documents/CsharpPractice/obj/Debug/net10.0/CsharpPractice.AssemblyInfo.cs
+/Users/ericakaye/Documents/CsharpPractice/obj/Debug/net10.0/CsharpPractice.csproj.CoreCompileInputs.cache
+/Users/ericakaye/Documents/CsharpPractice/bin/Debug/net10.0/CsharpPractice
+/Users/ericakaye/Documents/CsharpPractice/bin/Debug/net10.0/CsharpPractice.deps.json
+/Users/ericakaye/Documents/CsharpPractice/bin/Debug/net10.0/CsharpPractice.runtimeconfig.json
+/Users/ericakaye/Documents/CsharpPractice/bin/Debug/net10.0/CsharpPractice.dll
+/Users/ericakaye/Documents/CsharpPractice/bin/Debug/net10.0/CsharpPractice.pdb
+/Users/ericakaye/Documents/CsharpPractice/obj/Debug/net10.0/CsharpPractice.dll
+/Users/ericakaye/Documents/CsharpPractice/obj/Debug/net10.0/refint/CsharpPractice.dll
+/Users/ericakaye/Documents/CsharpPractice/obj/Debug/net10.0/CsharpPractice.pdb
+/Users/ericakaye/Documents/CsharpPractice/obj/Debug/net10.0/CsharpPractice.genruntimeconfig.cache
+/Users/ericakaye/Documents/CsharpPractice/obj/Debug/net10.0/ref/CsharpPractice.dll
