@@ -1,7 +1,6 @@
 using System;
-using Microsoft.VisualBasic;
 
-class Prac
+class Practical
 {
     static void Main(String[] args)
     {
